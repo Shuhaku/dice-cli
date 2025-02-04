@@ -1,0 +1,10 @@
+{
+  "name": "dice-cli",
+  "version": "1.0.0",
+  "description": "CLI tool that makes random decisions Pachinko-style",
+  "main": "bin/main.js",
+  "bin": {
+    "dice": "./bin/main.js"
+  },
+  "license": "MIT"
+}
